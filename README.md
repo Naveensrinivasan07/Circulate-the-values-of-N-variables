@@ -5,8 +5,10 @@ To write a python program to circulate the n variables using function concept
 PC
 Anaconda - Python 3.7
 ## Algorithm: 
-### Step 1: 
+### Step 1:
+Assume the keyword to run the program
 ### Step 2: 
+Assing the value of the first variable
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
